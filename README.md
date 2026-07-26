@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.tenor.com/NSNdQdPNBBwAAAAi/happy-lunar-new-year-angkukueh-girl.gif" width = 250px></picture>
+<!--<picture> <img align="right" src="https://media.tenor.com/NSNdQdPNBBwAAAAi/happy-lunar-new-year-angkukueh-girl.gif" width = 250px></picture>-->
 
 <br>
 
